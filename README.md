@@ -20,6 +20,3 @@ Good luck stopping me, you'll need it.
 ---
 
 Here's a teaser of what's coming next. Can you figure out the missing pieces?
-
-### File: `ransom_plan.txt`
-
