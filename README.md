@@ -1,6 +1,6 @@
 # Bigad Billa's Lair
 
-![Profile Picture](https://giphy.com/embed/3oKIPnAiaMCws8nOsE)
+![Profile Picture]([https://giphy.com/embed/3oKIPnAiaMCws8nOsE](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjUzZmdnNTVwaW0ycDI4cWNpbHkxZW5zdG50MGJqcDd1cHg4OXJyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp))
 
 ## 💣 It's Time to Hack NFSU 💻
 
